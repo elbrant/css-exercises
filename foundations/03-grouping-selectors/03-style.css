@@ -1,0 +1,18 @@
+/* 03-styles.css solution -- elbrant */
+
+button {
+	font: 28px "Helvetica" "Times New Roman" sans-serif;
+	border-color: lightgray;
+}
+
+.yes {
+	color: white;
+	background-color: black;
+}
+
+.no {
+	color: black;
+	background-color: yellow;
+}
+
+/* eof */
