@@ -1,0 +1,27 @@
+/* 02-style sheet solution - elbrant */
+
+p.odd {
+	color: black;
+	background-color: lightpink;
+	font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+p.third {
+	font-size: 24px;
+}
+
+div {
+	font-family: Ubuntu, sans-serif;
+}
+
+#second {
+	color: blue;
+	font-size: 36px;
+}
+
+#fourth {
+	font-size: 24px;
+	font-weight: bold;
+	background-color: lightgreen;
+}
+/* eof */
